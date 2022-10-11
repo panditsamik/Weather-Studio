@@ -6,6 +6,9 @@ Dexter library.
 ## Link to the API:
 <https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=APIkey>
 
+##### Examples of API calls
+<https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=APIkey>
+
 #### For more information :
 <https://openweathermap.org/api>
 
